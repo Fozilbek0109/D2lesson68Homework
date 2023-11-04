@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeActivity"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/callCenterActivity"
+        android:icon="@drawable/baseline_description_24"
+        android:title="Description" />
+    <item
+        android:id="@+id/sponsorActivity"
+        android:icon="@drawable/baseline_local_hospital_24"
+        android:title="Sponsors" />
+    <item
+        android:id="@+id/discriptionActivity"
+        android:icon="@drawable/baseline_call_end_24"
+        android:title="Call center" />
+</menu>
